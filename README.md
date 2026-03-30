@@ -1,2 +1,3 @@
-# nofoosballnolife-www
-The website for No Foosball No Life WWW and Issue tracker
+# RobotARme
+
+The website landing page for RobotARme WWW and Issue tracker

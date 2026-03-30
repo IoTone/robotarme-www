@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'No Foosball No Life'
+title = 'RobotARme'
 theme = 'terminal'
 
 [markup.goldmark.renderer]
@@ -14,7 +14,7 @@ theme = 'terminal'
 
 [languages]
   [languages.en]
-    title = "No Foosball No Life"
+    title = "RobotARme"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -23,7 +23,7 @@ theme = 'terminal'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "No Foosball No Life"
+      logoText = "RobotARme"
       logoHomeLink = "/"
 
     [languages.en.menu]
